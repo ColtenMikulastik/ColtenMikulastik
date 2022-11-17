@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ColtenMikulastik
-- 👀 I’m interested in Computer Science, Cyber Security, C++, Python, and Robotics. 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Computer Science, Cyber Security, C++, Python, Bash scripting, Robotics, and Linux.
+- 🌱 I’m currently learning Linux.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, I don't really have social media, you can reach me at 
 - email: mikulastikc@gmail.com
