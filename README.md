@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @ColtenMikulastik
-- 👀 I’m interested in Computer Science, Cyber Security, C++, Python, Bash scripting, Robotics, and Linux.
-- 🌱 I’m currently learning Linux.
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me, I don't really have social media, you can reach me at 
-- email: mikulastikc@gmail.com
+
+# HEY! 
+![hey there... oh...](https://media1.giphy.com/media/lbidtjzpO9l15mtx2R/giphy.gif)
+
+mfw I look at your code editor and theres no vim keybindings, and no linting.
+
+## My name is Colten Mikulastik
+I am an open-source freedom geek (computer wizard ⚡).
+
+## Interests
+I am an intern at Black Swan Cybersecurity, and interested in all sorts of interactions between users and their computers.
+
+### I love learning about:
+- Open source everything
+- CyberSecurity
+- Linux
+- Networking
+- etc.
 
 <!---
 ColtenMikulastik/ColtenMikulastik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
