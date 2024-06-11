@@ -8,7 +8,7 @@ mfw I look at your code editor and theres no vim keybindings, and no linting.
 I am an open-source freedom geek (computer wizard ⚡).
 
 ## Interests
-I am an intern at Black Swan Cybersecurity, and interested in all sorts of interactions between users and their computers.
+I am a Security Specialist at Black Swan Cybersecurity, and interested in all sorts of interactions between users and their computers.
 
 ### I love learning about:
 - Open source everything
